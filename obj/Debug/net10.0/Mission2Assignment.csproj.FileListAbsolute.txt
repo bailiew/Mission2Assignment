@@ -12,3 +12,4 @@
 /Users/bailiewhetten/RiderProjects/Mission2Assignment/obj/Debug/net10.0/Mission2Assignment.pdb
 /Users/bailiewhetten/RiderProjects/Mission2Assignment/obj/Debug/net10.0/Mission2Assignment.genruntimeconfig.cache
 /Users/bailiewhetten/RiderProjects/Mission2Assignment/obj/Debug/net10.0/ref/Mission2Assignment.dll
+/Users/bailiewhetten/RiderProjects/Mission2Assignment/obj/Debug/net10.0/Mission2Assignment.sourcelink.json

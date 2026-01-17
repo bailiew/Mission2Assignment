@@ -20,7 +20,7 @@ internal class DiceRoll
         {
             dice1 = rnd.Next(1, 7);
             dice2 = rnd.Next(1, 7);
-            diceCombination = dice1 + dice2; //should be a number between 2-12
+            diceCombination = dice1 + dice2; //will be a number between 2-12
             rollLog[diceCombination]++; // increment count in the spot that = the diceCombination
         }
         
